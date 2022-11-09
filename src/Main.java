@@ -1,5 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Прювет МИР!!!");
+        var dog = 8;
+        var cat = 3.6;
+        var papper = 763789;
+        System.out.println(cat);
+        System.out.println(dog);
+        System.out.println(papper);
     }
 }
